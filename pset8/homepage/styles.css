@@ -1,0 +1,53 @@
+#title {
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+}
+
+#iheader {
+    margin: 20px;
+    padding: 30px;
+}
+
+#subtitle {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#navbar, li {
+    display: inline;
+    text-align: center;
+    position: relative;
+    color: black;
+    align-content: space-between;
+}
+
+#body {
+    background-color: #CCCCFF;
+}
+
+#uc-note {
+    text-align: center;
+    margin: auto;
+}
+
+#dbody {
+    background-color: #ADD8E6;
+    font-family: Times;
+    margin: auto;
+    padding: 30px;
+}
+
+#cvnames {
+    display: inline-grid;
+}
+
+#csbody {
+    background-color: #90EE90;
+    padding: 30px;
+}
+
+#csprojects {
+    background-color: #FFFF66;
+    padding: 20px;
+}
