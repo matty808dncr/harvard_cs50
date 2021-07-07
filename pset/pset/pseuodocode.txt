@@ -1,0 +1,7 @@
+open mario
+ask height
+if height = 1 
+    printf # 
+else repeat prompt 
+if height <=8 
+    printf #
